@@ -1,9 +1,9 @@
 
- main{
+ main.accio#job{
         height: 150px;
         background-color: black;
     }
-    p{
+    p.hello-accio{
         color: white;
         margin-left: 32px;
         padding: 10px;
